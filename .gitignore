@@ -1,4 +1,8 @@
 fp-info-cache
 MCU Data Logger-backups/*
 MCUDataloggerGerber/*
+2Layer-Gerber/*
+freerouting.dsn
+freerouting.ses
+temp-freerouting.dsn
 
